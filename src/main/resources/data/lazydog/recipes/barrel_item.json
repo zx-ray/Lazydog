@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "group": "Lazydog",
+  "ingredients": [
+    {"tag": "minecraft:blanks"},
+    {"tag": "minecraft:blanks"},
+    {"tag": "minecraft:blanks"},
+    {"tag": "minecraft:blanks"},
+    {"tag": "minecraft:blanks"},
+    {"tag": "minecraft:blanks"},
+    {"tag": "minecraft:blanks"}
+  ],
+  "result": {
+    "item": "minecraft:barrel",
+    "count": 2
+  }
+}

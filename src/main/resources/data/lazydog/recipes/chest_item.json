@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "Lazydog",
+  "ingredients": [
+    {"tag": "minecraft:logs"},
+    {"tag": "minecraft:logs"}
+  ],
+  "result": {
+    "item": "minecraft:chest"
+  }
+}

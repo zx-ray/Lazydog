@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "group": "Lazydog",
+  "ingredients": [
+    {"item": "minecraft:piston"},
+    {"item": "minecraft:piston"}
+  ],
+  "result": {
+    "item": "lazydog:lazydog"
+  }
+}
